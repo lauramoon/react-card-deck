@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# Card Dealing App Made with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You get to watch a deck of cards being dealt, one card per second. You can start and stop the dealing. When the deck is done, you have the option to shuffle and start over.
+
 ## Available Scripts
 
-In the project directory, you can run:
+To run locally, clone this repo. In the project directory, you can run:
 
 ### `npm start`
 
